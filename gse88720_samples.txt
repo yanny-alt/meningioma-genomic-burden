@@ -1,0 +1,16 @@
+sample_id	cel_file
+GSM2344693_M1.ga.cel.gz	GSM2344693_M1.ga.cel.gz
+GSM2344694_M2.ga.cel.gz	GSM2344694_M2.ga.cel.gz
+GSM2344695_M3.ga.cel.gz	GSM2344695_M3.ga.cel.gz
+GSM2344696_M4.ga.cel.gz	GSM2344696_M4.ga.cel.gz
+GSM2344697_M5.ga.cel.gz	GSM2344697_M5.ga.cel.gz
+GSM2344698_M6.ga.cel.gz	GSM2344698_M6.ga.cel.gz
+GSM2344699_M7.ga.cel.gz	GSM2344699_M7.ga.cel.gz
+GSM2344700_M8.ga.cel.gz	GSM2344700_M8.ga.cel.gz
+GSM2344701_M9.ga.cel.gz	GSM2344701_M9.ga.cel.gz
+GSM2344702_M10.ga.cel.gz	GSM2344702_M10.ga.cel.gz
+GSM2344703_M11.ga.cel.gz	GSM2344703_M11.ga.cel.gz
+GSM2344704_M12.ga.cel.gz	GSM2344704_M12.ga.cel.gz
+GSM2344705_M13.ga.cel.gz	GSM2344705_M13.ga.cel.gz
+GSM2344706_M14.ga.cel.gz	GSM2344706_M14.ga.cel.gz
+GSM2344707_M15.ga.cel.gz	GSM2344707_M15.ga.cel.gz
