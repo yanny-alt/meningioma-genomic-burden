@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+a6c91d3a-bd0a-4868-a123-2a59e49dc21e	a6c91d3a-bd0a-4868-a123-2a59e49dc21e/TCGA-SARC.1c42180e-e828-43ad-938a-d93e8d894207.gene_level_copy_number.v36.tsv	c57c6957e9863d8c29c7fce8d65247d0	3446840	validated
